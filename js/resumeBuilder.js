@@ -50,7 +50,7 @@ var data = "%data%";
        $("#skills").append(formattedSkill);
         });
     }
-}
+};
 
 bio.display();
 
@@ -230,10 +230,10 @@ projects.display();
 
 
 // $(document).click(function(loc) {
-// 	var x = loc.pageX;
-// 	var y = loc.pageY;
+//  var x = loc.pageX;
+//  var y = loc.pageY;
 
-// 	logClicks(x,y);
+//  logClicks(x,y);
 // })
 
 // function inName(name) {
